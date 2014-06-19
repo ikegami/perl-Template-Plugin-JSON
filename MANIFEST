@@ -1,0 +1,17 @@
+.gitignore
+Makefile.PL
+Changes
+lib/Template/Plugin/JSON.pm
+LICENSE.txt
+MANIFEST
+MANIFEST.SKIP
+META.yml
+META.json
+README.txt
+t/00_load.t
+t/01_devel_mark_check.t
+t/02_devel_version_check.t
+t/03_devel_whitespace.t
+t/04_devel_permissions.t
+t/05_pod.t
+t/06_devel_pod_coverage.t
